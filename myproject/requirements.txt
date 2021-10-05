@@ -5,3 +5,5 @@ django-cors-headers
 djoser
 psycopg2
 django-rest-knox
+pip install -U djoser
+django-filter
